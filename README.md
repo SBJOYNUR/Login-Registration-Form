@@ -7,4 +7,4 @@ Contains an image cropped to a shape.
 Developed first with the Mobile First methodology, then for desktop.
 Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-[image](https://github.com/SBJOYNUR/Login-Registration-Form/blob/9ed8a4011e0dfe9e8a9af34809f9e22e592fe310/Responsive%20Login%20%26%20Registration%20Form%20preview.jpg)
+![image alt](https://github.com/SBJOYNUR/Login-Registration-Form/blob/9ed8a4011e0dfe9e8a9af34809f9e22e592fe310/Responsive%20Login%20%26%20Registration%20Form%20preview.jpg)
